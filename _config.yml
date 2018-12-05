@@ -1,8 +1,8 @@
 # Site settings
-title: DataFormation Blog
+title: DataFormation
 header-img: img/home-bg.jpg
 email: support@dataformation.io 
-copyright_name: DataFormation 
+copyright_name: DataFormation
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://blog.dataformation.io/"
