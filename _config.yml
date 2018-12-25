@@ -5,7 +5,7 @@ email: support@dataformation.io
 copyright_name: DataFormation
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://blog.dataformation.io/"
+url: "https://blog.dataformation.io/"
 twitter_username: DataFormationIO 
 github_username:  dataformation
 # facebook_username:  StartBootstrap
