@@ -8,6 +8,8 @@ header-img: "img/post-bg-01.jpg"
 tags: [BigQuery, GIS, Android, Robolectric, AndroidX, unit testing, automated testing]
 ---
 
+A summary of data engineering, cloud, and mobile posts that caught the eye.
+
 <h2 class="section-heading">Geospatial Functions for BigQuery</h2>
 
 *BigQuery, GIS*{: style="color: gray"}
