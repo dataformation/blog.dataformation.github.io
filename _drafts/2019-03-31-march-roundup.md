@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "January Roundup"
+title:      "March Roundup"
 subtitle:   "Curated summary of interesting articles from the world of mobile and data"
-date:       2019-01-31 12:00:00
+date:       2019-03-31 12:00:00
 author:     "DataFormation"
 header-img: "img/post-bg-01.jpg"
 tags: []
@@ -18,7 +18,7 @@ A completely uncurated list of every <a href="https://cloud.google.com/blog/prod
 
 <h2 class="section-heading">Azure IOT</h2>
 
-https://azure.microsoft.com/en-us/blog/ai-iot-insider-labs-helping-transform-smallholder-farming/
+<https://azure.microsoft.com/en-us/blog/ai-iot-insider-labs-helping-transform-smallholder-farming/>
 
 Also see case study.
 
