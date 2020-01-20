@@ -17,7 +17,7 @@ This is the summary.
 *Microsoft Azure, Apache Airflow*{: style="color: gray"}
 
 
-Microsoft Azure backs Apache Airflow as well as Google with Cloud COmposer:
+Microsoft Azure backs Apache Airflow as well as Google with Cloud Composer:
 https://azure.microsoft.com/en-us/blog/bitnami-apache-airflow-multi-tier-now-available-in-azure-marketplace/
 
 
